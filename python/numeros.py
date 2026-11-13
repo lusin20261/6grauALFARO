@@ -1,0 +1,12 @@
+print("...........calculadora de un aquipo elctronico...........")
+a = input("primer numero")
+b = input ("segundo numero")
+a = int (a)
+b = int (b)
+print("multiplicacion:",a*b)
+print("divicion:",a/b)
+print("suma:",a+b)
+print("resta:",a-b)
+print("potencia:",a**b)
+print(".......gracias por su tiempo y que tenga un buen dia...........")
+
